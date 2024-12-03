@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMChat",
-            url: "https://github.com/sf-jed-kyung/spm-chat/releases/download/1.0.4/SPMChat.xcframework.zip",
-            checksum: "018347628eb1c7e6bc341521768073c220ef217c2ed130875520b3b2a2c35be8"
+            url: "https://github.com/sf-jed-kyung/spm-chat/releases/download/1.0.5/SPMChat.xcframework.zip",
+            checksum: "6c804dc5ca8dc7a684ba1347a579f5fac07db0569d6906f443efb58640367e2c"
         ),
     ]
 )
